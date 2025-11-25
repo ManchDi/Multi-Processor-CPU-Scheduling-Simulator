@@ -123,8 +123,5 @@ struct Process {
 ## Author
 
 Dmitrii Manchurak
-Personal project / OS Scheduling Lab 5
+Personal project / OS Scheduling 
 
----
-
-Do you want me to **also include a “Demo GIF or Example Run” section** in the README for visual clarity?
